@@ -27,9 +27,9 @@
 
 | Project | What it shows |
 |---|---|
-| [**classroom-grading-api**](https://github.com/Shadehow/classroom-grading-api) | FastAPI backend with JWT auth, roles and an explainable, human-validated auto-grader |
-| [**art-price-forecasting**](https://github.com/Shadehow/art-price-forecasting) | ML pipeline: hedonic price index, artist segmentation, anomaly-based weak signals, honest baseline evaluation |
-| [**autotrade**](https://github.com/Shadehow/autotrade) | Personal algo-trading project — yfinance + scikit-learn walk-forward backtest, news scraping with Selenium |
+| [**classroom-grading-api**](https://github.com/Antoine-Loyau-Tulasne/classroom-grading-api) | FastAPI backend with JWT auth, roles and an explainable, human-validated auto-grader |
+| [**art-price-forecasting**](https://github.com/Antoine-Loyau-Tulasne/art-price-forecasting) | ML pipeline: hedonic price index, artist segmentation, anomaly-based weak signals, honest baseline evaluation |
+| [**autotrade**](https://github.com/Antoine-Loyau-Tulasne/autotrade) | Personal algo-trading project — yfinance + scikit-learn walk-forward backtest, news scraping with Selenium |
 
 > Most of my client and school work is under NDA: the repositories above are
 > self-contained demos written from scratch to show the methods, not the original code.

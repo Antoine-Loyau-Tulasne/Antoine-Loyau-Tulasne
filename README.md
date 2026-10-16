@@ -36,4 +36,4 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/antoine-loyau-tulasne-48147a310/) · [a.loyau037@gmail.com](mailto:a.loyau037@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/antoine-loyau-tulasne/) · [a.loyau037@gmail.com](mailto:a.loyau037@gmail.com)
